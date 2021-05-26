@@ -2,5 +2,9 @@
 
 This is an open-source Valorant application which allows users to instantaneously lock their agent.
 
-**Instructions: **
-<ul>Download the executable file and install.</ul>
+<b>Instructions: </b>
+<ul>
+  <li>Download the executable file for the application <a href=''>here</a> and install the program.</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>  
