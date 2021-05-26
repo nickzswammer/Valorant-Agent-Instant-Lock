@@ -25,3 +25,6 @@ This is an open-source Valorant application which allows users to instantaneousl
   <li>When about to choose the agent, hold F5 and it will click on the agent's icon and lock it in for you. </li>
   <li>When the agent is locked in, release F5 and press F10 to stop the application.</li>
 </ol>  
+
+<br>
+Download this <a href='https://www.dropbox.com/s/twpunuqmsehbeqh/val_insta_lock.exe?dl=0'>here</a>
