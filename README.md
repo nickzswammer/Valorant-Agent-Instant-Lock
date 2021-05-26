@@ -4,7 +4,7 @@ This is an open-source Valorant application which allows users to instantaneousl
 
 <b>Controls: </b>
 <p>Hold F5 to activate the instant locking application. Press F10 to stop the application. </p>
-
+<br>
 <b>Instructions: </b>
 <ol>
   <li>Download the executable file for the application <a href='https://www.dropbox.com/s/twpunuqmsehbeqh/val_insta_lock.exe?dl=0'>here</a> and install the program.</li>
