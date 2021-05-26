@@ -1,9 +1,18 @@
 # Valorant-Agent-Instant-Lock
 
 This is an open-source Valorant application which allows users to instantaneously lock their agent.
+<br>
+<b>Important Information (READ BEFORE INSTALLING)</b>
+<ol>
+  <li>Make sure Valorant is in Windowed-Fullscreen Mode</li>
+  <li>The insta-lock application MUST be in focus (i.e. click on the application before pressing F5)</li>
+  <li><b>VALORANT DOES NOT DETECT THIS PROGRAM. THIS DOES NOT ALTER THE GAME PROCESS IN ANY WAY. YOU WILL NOT BE BANNED FOR USING THIS APPLICATION</b></li>
+</ol>
+
 
 <b>Controls: </b>
 <p>Hold F5 to activate the instant locking application. Press F10 to stop the application. </p>
+<br>
 <br>
 <b>Instructions: </b>
 <ol>
