@@ -1,5 +1,7 @@
 # Valorant-Agent-Instant-Lock
 
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/de08sil-acd5ae6a-6081-40d9-b024-bb8847cd8d07.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvYzc4YmMzZmMtOWYwOC00N2NhLTgxYWUtZDg5MDU1YzdlYzQ5XC9kZTA4c2lsLWFjZDVhZTZhLTYwODEtNDBkOS1iMDI0LWJiODg0N2NkOGQwNy5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.6bFbB6Sk0V-3TqFFPpJG21cHy_39-hGLKHJbg3KDk8Y'>
+
 This is an open-source Valorant application which allows users to instantaneously lock their agent.
 <br>
 <br>
