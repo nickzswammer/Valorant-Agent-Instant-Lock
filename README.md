@@ -2,6 +2,7 @@
 
 This is an open-source Valorant application which allows users to instantaneously lock their agent.
 <br>
+<br>
 <b>Important Information (READ BEFORE INSTALLING)</b>
 <ol>
   <li>Make sure Valorant is in Windowed-Fullscreen Mode</li>
@@ -9,6 +10,7 @@ This is an open-source Valorant application which allows users to instantaneousl
   <li><b>VALORANT DOES NOT DETECT THIS PROGRAM. THIS DOES NOT ALTER THE GAME PROCESS IN ANY WAY. YOU WILL NOT BE BANNED FOR USING THIS APPLICATION</b></li>
 </ol>
 
+<br>
 
 <b>Controls: </b>
 <p>Hold F5 to activate the instant locking application. Press F10 to stop the application. </p>
