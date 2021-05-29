@@ -28,7 +28,7 @@ This is an open-source Valorant application which allows users to instantaneousl
   <li>When the agent is locked in, release F5 and press F10 to stop the application.</li>
 </ol>  
 
-<iframe width="952" height="384" src="https://www.youtube.com/embed/9XcIKOjNOGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=9XcIKOjNOGc
 
 <br>
 Download this <a href='https://bit.ly/2ThyEux'>here</a>
