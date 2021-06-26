@@ -23,7 +23,7 @@ This is an open-source Valorant application which allows users to instantaneousl
 <br>
 <b>Instructions: </b>
 <ol>
-  <li>Download the executable file for the application <a href='https://bit.ly/2ThyEux'>here</a> and install the program.</li>
+  <li>Download the executable file for the application <a href='https://bit.ly/3gUW4iS'>here</a> and install the program.</li>
   <li>After Installing, navigate to the directory where the application was installed, and open the app.exe file.</li>
   <li>A window should pop up. Select the agent you want to lock in from the drop-down menu, and click on choose agent.</li>
   <li>Then, go to the VALORANT process and prepare to load into the game.</li>
@@ -35,4 +35,4 @@ This is an open-source Valorant application which allows users to instantaneousl
 https://www.youtube.com/watch?v=9XcIKOjNOGc
 
 <br>
-Download this <a href='https://bit.ly/2ThyEux'>here</a>
+Download this <a href='https://bit.ly/3gUW4iS'>here</a>
