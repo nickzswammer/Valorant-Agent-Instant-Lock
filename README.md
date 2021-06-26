@@ -1,4 +1,4 @@
-# Valorant-Agent-Instant-Lock
+# Valorant-Agent-Instant-Lock (UPDATED FOR EPISODE 3)
 
 <p>Version: 1.0.1 </p>
 
