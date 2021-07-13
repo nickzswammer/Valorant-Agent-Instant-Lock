@@ -9,6 +9,7 @@ This is an open-source Valorant application which allows users to instantaneousl
 <br>
 <b>Important Information (READ BEFORE INSTALLING)</b>
 <ol>
+  <li><b>IGNORE ALL ANTIVIRUS WARNINGS THIS IS A SAFE APPLICATION
   <li>Make sure Valorant is in Windowed-Fullscreen Mode, and the monitor and in-game resolution is 1920x1080</li>
   <li>The insta-lock application MUST be in focus (i.e. click on the application before pressing F5)</li>
   <li>All agents must be unlocked or the program will not work. </li>
